@@ -1,0 +1,19 @@
+Overview
+
+Can You Tell the Difference?
+
+In today’s rapidly evolving digital landscape, AI-generated content is becoming more sophisticated and widespread. From deep-fakes to generative art, distinguishing between what’s real and what’s AI is a growing challenge with profound implications for media, security, and creativity.
+
+This competition invites you to design machine learning models that can accurately classify images as AI-generated or human-created, while ensuring fairness and robust performance across a diverse dataset.
+
+To participate to this challenge and win our prizes register your team on the official Women in AI page: https://www.womeninai.co/kagglechallenge2025
+
+Description
+
+The rise of generative AI has brought remarkable advancements in creating realistic images, videos, and audio. However, with this progress comes the challenge of distinguishing between authentic human-created content and AI-generated content, particularly in the context of deepfakes. Deepfake detection has become a critical area of research due to its implications for media trust, security, and ethics. Misuse of generative AI can lead to the spread of misinformation, erosion of public trust, and potential harm to individuals and institutions.
+
+The dataset for this challenge, provided by Shutterstock and DeepMedia, combines authentic and AI-generated images to create a robust foundation for training and evaluation. Authentic images are sourced from Shutterstock's platform, including a balanced selection where one-third of the images feature humans. These are paired with their AI-generated counterparts, created by DeepMedia using state-of-the-art generative models. This pairing ensures a direct comparison between real and AI-generated content, enhancing model training and enabling the development of robust image authenticity detection systems.
+
+The complete dataset with the images is available for download here: https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset
+
+Below are some examples from the dataset, illustrating authentic images paired with their generated text labels and AI-generated equivalents:

@@ -1,0 +1,9 @@
+torch>=1.12.0  # Specify a minimum version, adjust as needed
+torchvision>=0.13.0 # Corresponding torchvision version
+timm>=0.9.2     # Timm library, adjust as needed
+scikit-learn  # For accuracy_score, average_precision_score
+numpy
+pandas
+Pillow  # For image loading (PIL)
+open-clip-torch # important, install open-clip-torch
+scipy # import scipy
